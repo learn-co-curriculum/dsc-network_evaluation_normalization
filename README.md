@@ -574,7 +574,7 @@ sns.lineplot(x=results.epoch, y=val_acc, ax=ax2, label='val_accuracy');
 
 We can also specify a dropout layer in keras, which randomly shuts off different nodes during training. This can help to prevent overfitting.
 
-![drop_out](https://github.com/learn-co-curriculum/dsc-network_evaluation_normalization/blob/main/images/drop_out.png?raw=true)
+![drop_out](https://github.com/learn-co-curriculum/dsc-network_evaluation_normalization/blob/master/images/drop_out.png?raw=true)
 
 ### Exercise
 
